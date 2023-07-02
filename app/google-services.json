@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257674491128",
+    "project_id": "foodbuzz-e6cd9",
+    "storage_bucket": "foodbuzz-e6cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257674491128:android:f8cc32f95629380d6c370d",
+        "android_client_info": {
+          "package_name": "com.miui.foodbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257674491128-l66ilrafpciast4982v2ttkt8h8lhcim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24Npg4nmb9H1bi4ftWmy4ynJXsqMnetQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257674491128-l66ilrafpciast4982v2ttkt8h8lhcim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

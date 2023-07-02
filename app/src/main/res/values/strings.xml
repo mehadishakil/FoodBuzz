@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodBuzz</string>
+    <string name="foodbuzz">FOODBUZZ</string>
+    <string name="todo">TODO</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="twitter">Twitter</string>
+    <string name="foodbuzzbgimage">FoodBuzzBGImage</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_title">FoodBuzz</string>
+</resources>
